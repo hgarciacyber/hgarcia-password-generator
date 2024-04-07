@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Using Google Fonts for Roboto Condensed */
+    font-weight: 200; /* Adjust as needed */
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./assets/matrixxx.gif'); /* Specify the path to your local image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+  }
+  
+ 
+
+.container {
+    text-align: center;
+}
+
+.options {
+    margin-top: 20px;
+
+}
+
+.password-display {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
